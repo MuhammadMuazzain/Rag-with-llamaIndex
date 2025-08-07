@@ -20,6 +20,7 @@ from llama_index.core.extractors import (
 from llama_index.core.node_parser import SentenceSplitter
 from llama_parse import LlamaParse
 
+# load_dotenv()
 load_dotenv()
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 pinecone_api_key = os.environ.get("PINECONE_API_KEY")

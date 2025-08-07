@@ -2,8 +2,6 @@
 
 This project focuses on enhancing the GPT Documents chatbot by introducing several innovative features across different stages of development, aimed at improving user interaction, search accuracy, and response quality. 
 
-![](https://github.com/felipearosr/GPT-Documents/blob/main/1.Streaming%20-%20Memory%20-%20Sources/images/RAG.gif)
-
 ## Project Overview:
 
 1. **ChatBot with Streaming, Memory, and Sources**: The initial version introduces streaming for real-time response delivery, memory for contextual conversations, and source indication for transparency. Technologies like Llama-index and Chainlit are utilized to facilitate a more intuitive and informative chatbot experience.
